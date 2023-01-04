@@ -70,7 +70,7 @@ changeBtn.onclick = function () {
 container.appendChild(changeBtn);
 
 // styling for body
-document.body.style.cssText = "background-color: #E8EAED;"
+document.body.style.cssText = "background-color: #E8EAED; font-family: 'Work Sans', sans-serif;"
 
 
 // add container to body
